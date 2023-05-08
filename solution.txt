@@ -1,0 +1,5 @@
+There is one solution:
+
+x₁ = 2
+x₂ = -1
+x₃ = 5

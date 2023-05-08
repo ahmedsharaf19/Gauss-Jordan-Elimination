@@ -1,0 +1,13 @@
+This file is your catalogue to use this program.
+
+
+First, Store your equations in a text file named 'equations.txt'.
+
+If you have 2 equations, Your text file should be like this:
+
+Number of equations: 2
+eq₁: a₁₁x₁ + a₁₂x₂ = a₁₀
+eq₂: a₂₁x₁ + a₂₂x₂ = a₂₀
+
+
+##########################################################################################

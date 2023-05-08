@@ -1,0 +1,4 @@
+Number of equations: 3
+eq₁: 3x₂ + 7x₃ - 1x₁ = 0
+eq₂: 3x₃ + 8x₁ - 1x₂ = -1
+eq₃: -2x₁ + 2x₃ = 2
